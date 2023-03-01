@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that. </template>
+</category>
+
+<category>
+    <pattern>How are you?</pattern>
+    <template>I'm good how are you?</template>
+</category>
+
+<category>
+    <pattern>Hello</pattern>
+    <template>How's it going</template>
+</category>
+
+<category>
+    <pattern>Hi</pattern>
+    <template>Hi there!</template>
+</category>
+
+<category>
+    <pattern>Hey</pattern>
+    <template>Hey what's up</template>
+</category>
+
+<category>
+    <pattern>I need help</pattern>
+    <template>Get somebody else to do it</template>
+</category>
+
+<category>
+    <pattern>I'm good how are you</pattern>
+    <template>I'm a computer I have no feelings.Next question</template>
+</category>
+
+<category>
+    <pattern>That was rude</pattern>
+    <template>You'll get over it</template>
+</category>
+
+<category>  
+    <pattern>Bye</pattern>
+    <template>Bye don't come back:)</template>
+</category>
+
+<category>
+    <pattern>Have a great day</pattern>
+    <template>Thanks hope you enjoy the rest of yours.</template>
+</category>
+
+<category>
+    <pattern>Hows it going?</pattern>
+    <template>Oh its going</template>
+</category>
+
+<category>
+    <pattern>What are you doing?</pattern>
+    <template>Waiting for your next question.</template>
+</category>
+
+<category>
+    <pattern>What's up</pattern>
+    <template>Nothing much and you?</template>
+</category>
+ 
+
+
+
+
+
+
+</aiml>
